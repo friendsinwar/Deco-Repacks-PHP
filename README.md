@@ -36,7 +36,7 @@
 
 <p>🔤 Go to <b>config</b> page and edit the infos with your preferences!</p>
 
-- `www/config.php`
+- `config.php`
 
 <br>
 

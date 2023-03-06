@@ -519,18 +519,22 @@ input[type=file]::file-selector-button:hover {
 a:link {
   color: #07d6a0;
   font-weight: bold;
+  text-decoration: none;
 }
 a:visited {
   color: #07d6a0;
   font-weight: bold;
+  text-decoration: none;
 }
 a:hover {
   color: #07d6a0;
   font-weight: bold;
+  text-decoration: none;
 }
 a:active {
   color: #07d6a0;
   font-weight: bold;
+  text-decoration: none;
 }
 
 .imgClass:hover {
@@ -620,14 +624,14 @@ window.addEventListener(
 <div class='divList' id='divList'>
 
 <dl class="faq">
-  <h1>Earn Money</h1>
+  <h1>Earn Money (Advertisements)</h1>
   
   <dt>
     <button type="button" aria-expanded="false" aria-controls="body">Pop Under</button>
   </dt>
   <dd>
     <div id="body" class="desc">
-      <p><b>1</b>: Sign Up on <a href="https://publishers.adsterra.com/referral/nnT153GHHS" target="_blank">AdsTerra</a> and register your website.</p>
+      <p><b>1</b>: Sign Up on <a href="https://publishers.adsterra.com/referral/nnT153GHHS" target="_blank"><b>AdsTerra</b></a> Network and register your website.</p>
       <p><b>2</b>: Paste the Pop Under code on this text box.</p>
       
       <form action="" method="POST" enctype="multipart/form-data">
@@ -657,7 +661,7 @@ window.addEventListener(
     </div>
   </dd>
 
-  <h1>Website Config</h1>
+  <h1>Website Options</h1>
 
   <dt>
     <button type="button" aria-expanded="false" aria-controls="name">Website Name</button>
@@ -788,7 +792,7 @@ window.addEventListener(
   </dt>
   <dd>
     <div id="comments" class="desc">
-      <p>&nbsp;Access <a href="https://disqus.com" target="_blank">Disqus</a> to get get your comments code.</p>
+      <p>&nbsp;Sign Up on <a href="https://disqus.com" target="_blank">Disqus</a> to get get your comments code.</p>
 
       <form action="" method="POST" enctype="multipart/form-data">
       <textarea name="txtNewComments" rows="17" cols="50"><?php echo $SiteComments ?></textarea>
@@ -803,7 +807,7 @@ window.addEventListener(
 <center>
 <p></p>
 
-<p>Version: <a href="https://github.com/friendsinwar/Games-Download-Torrents-Website" target="_blank"><b>1.0</b></a> &copy; Powered by <a href="http://steamcommunity.com/profiles/76561199187322883" target="_blank"><b>DECO</b></a></p>
+<p>Version: <a href="https://github.com/friendsinwar/Deco-Repacks-PHP" target="_blank"><b>1.0</b></a> &copy; Powered by <a href="http://steamcommunity.com/profiles/76561199187322883" target="_blank"><b>DECO</b></a></p>
 </center>
 </div>
 
